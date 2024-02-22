@@ -29,8 +29,8 @@ Within each topic, you'll find folders for individual problems, each containing 
 Below is a list of topics I've covered, along with links to each specific problem and solution:
 
 - Arrays
-  - [x] [Two Sum](./Arrays/Two_Sum/README.md)
-  - [x] [Best Time to Buy and Sell Stock](./Arrays/Best_Time_to_Buy_and_Sell_Stock/README.md)
+  - [x] [Two Sum](./Array_String/TwoSum/README.md)
+  - [x] [Best Time to Buy and Sell Stock](./Array_String/ValidAnagram/README.md)
   - [ ] More to come...
 
 - Strings

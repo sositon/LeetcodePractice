@@ -30,7 +30,7 @@ Below is a list of topics I've covered, along with links to each specific proble
 
 - Arrays
   - [x] [Two Sum](./Array_String/TwoSum/README.md)
-  - [x] [Best Time to Buy and Sell Stock](./Array_String/ValidAnagram/README.md)
+  - [x] [Valid Anagram](./Array_String/ValidAnagram/README.md)
   - [ ] More to come...
 
 - Strings
